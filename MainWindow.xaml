@@ -17,7 +17,7 @@
 	OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 	DEALINGS IN THE SOFTWARE.
 -->
-<Window x:Class="AvalonEdit.Sample.MainWindow"
+<Window x:Class="ICSharpCode.AvalonEdit.Sample.MainWindow"
 	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
 	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
 	xmlns:avalonEdit="http://icsharpcode.net/sharpdevelop/avalonedit"

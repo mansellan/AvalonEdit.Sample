@@ -29,7 +29,7 @@ using ICSharpCode.AvalonEdit.Folding;
 using ICSharpCode.AvalonEdit.Highlighting;
 using Microsoft.Win32;
 
-namespace AvalonEdit.Sample
+namespace ICSharpCode.AvalonEdit.Sample
 {
     /// <summary>
     /// Interaction logic for Window1.xaml

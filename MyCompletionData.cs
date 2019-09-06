@@ -22,7 +22,7 @@ using ICSharpCode.AvalonEdit.CodeCompletion;
 using ICSharpCode.AvalonEdit.Document;
 using ICSharpCode.AvalonEdit.Editing;
 
-namespace AvalonEdit.Sample
+namespace ICSharpCode.AvalonEdit.Sample
 {
     /// <summary>
     /// Implements AvalonEdit ICompletionData interface to provide the entries in the completion drop down.
