@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvalonEdit.Sample", "AvalonEdit.Sample.csproj", "{13A5B497-BA12-45AE-9033-22620C3153FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13A5B497-BA12-45AE-9033-22620C3153FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A5B497-BA12-45AE-9033-22620C3153FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A5B497-BA12-45AE-9033-22620C3153FB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{13A5B497-BA12-45AE-9033-22620C3153FB}.Debug|x86.Build.0 = Debug|Any CPU
+		{13A5B497-BA12-45AE-9033-22620C3153FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A5B497-BA12-45AE-9033-22620C3153FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A5B497-BA12-45AE-9033-22620C3153FB}.Release|x86.ActiveCfg = Release|Any CPU
+		{13A5B497-BA12-45AE-9033-22620C3153FB}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5593BB8-FB8A-4CB1-BC3B-EC259FD6FB5A}
+	EndGlobalSection
+EndGlobal
